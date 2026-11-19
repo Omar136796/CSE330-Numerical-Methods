@@ -1,6 +1,6 @@
-# CSE330 (Spring 2024) – Numerical Methods (BRAC University)
+# CSE330 – Numerical Methods (BRAC University)
 
-Lab assignments from CSE330, BRAC University's numerical methods course,
+Lab assignments from CSE330 (Spring 2024), BRAC University's numerical methods course,
 implemented in Python with NumPy and Matplotlib. Covers polynomial
 interpolation, numerical differentiation, root finding, and solving
 linear systems. All work was done in Google Colab, and each notebook
